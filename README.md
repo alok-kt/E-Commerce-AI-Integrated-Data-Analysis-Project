@@ -1,4 +1,3 @@
-# E-Commerce-AI-Integrated-Data-Analysis-Project
 
 # 🛒 E-Commerce Data Analysis — AI-Assisted Analytics Portfolio Project
 
